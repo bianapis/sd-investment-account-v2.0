@@ -1,0 +1,36 @@
+{
+  "investmentAccountFulfillmentArrangementInstanceReference" : "IAFAIR798310",
+  "investmentAccountFulfillmentArrangementInstanceStatus" : "investmentAccountFulfillmentArrangementInstanceStatus",
+  "investmentAccountFulfillmentArrangementInitiateActionRecord" : {},
+  "investmentAccountFulfillmentArrangementInstanceRecord" : {
+    "linkedCashAccount" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "investmentAccountInstrumentRecord" : {
+      "instrumentReference" : "782549",
+      "instrumentType" : "instrumentType",
+      "tradingMarketplaceReference" : "723488",
+      "instrumentProcessingSchedule" : {
+        "instrumentEventDate" : "09-22-2018",
+        "instrumentEventDescription" : "instrumentEventDescription",
+        "instrumentEventType" : "instrumentEventType"
+      },
+      "instrumentPositionRecord" : {
+        "instrumentPositionLimitType" : "instrumentPositionLimitType",
+        "instrumentPositionLimitSettings" : "instrumentPositionLimitSettings",
+        "instrumentPositionHolding" : "instrumentPositionHolding"
+      }
+    },
+    "investmentAccountInstrumentProfile" : "investmentAccountInstrumentProfile",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "investmentAccountNumber" : "investmentAccountNumber"
+  },
+  "investmentAccountFulfillmentArrangementInitiateActionReference" : "IAFAIAR794905"
+}

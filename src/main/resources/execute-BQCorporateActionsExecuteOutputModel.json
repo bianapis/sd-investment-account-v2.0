@@ -1,0 +1,15 @@
+{
+  "corporateActionsExecuteActionTaskReference" : "CAEATR768094",
+  "corporateActionsExecuteRecordReference" : "CAERR794984",
+  "corporateActionsInstanceRecord" : {
+    "corporateActionTransaction" : {
+      "corporateActionTransactionDescription" : "corporateActionTransactionDescription",
+      "corporateActionTransactionDate" : "09-22-2018",
+      "corporateActionTransactionResult" : "corporateActionTransactionResult",
+      "corporateActionWorkProducts" : "corporateActionWorkProducts",
+      "documentDirectoryEntryInstanceReference" : "753592"
+    }
+  },
+  "executeResponseRecord" : {},
+  "corporateActionsExecuteActionTaskRecord" : {}
+}

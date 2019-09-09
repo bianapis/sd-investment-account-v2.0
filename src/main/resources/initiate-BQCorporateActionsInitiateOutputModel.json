@@ -1,0 +1,49 @@
+{
+  "corporateActionsInitiateActionRecord" : {},
+  "corporateActionsInstanceRecord" : {
+    "corporateActionApplicationSchedule" : "corporateActionApplicationSchedule",
+    "corporateActionInstrumentType" : "corporateActionInstrumentType"
+  },
+  "corporateActionsInstanceReference" : "CAIR763275",
+  "corporateActionsInitiateActionReference" : "CAIAR735661",
+  "corporateActionsInstanceStatus" : "corporateActionsInstanceStatus",
+  "investmentAccountFulfillmentArrangementInstanceRecord" : {
+    "linkedCashAccount" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "taxReference" : "701464",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "investmentAccountInstrumentProfile" : "investmentAccountInstrumentProfile",
+    "investmentAccountNumber" : "investmentAccountNumber",
+    "bankBranchLocationReference" : "730997",
+    "productInstanceReference" : "792126",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "investmentAccountInstrumentRecord" : {
+      "instrumentReference" : "706375",
+      "instrumentType" : "instrumentType",
+      "tradingMarketplaceReference" : "788683",
+      "instrumentProcessingSchedule" : {
+        "instrumentEventDate" : "09-22-2018",
+        "instrumentEventDescription" : "instrumentEventDescription",
+        "instrumentEventType" : "instrumentEventType"
+      },
+      "instrumentPositionRecord" : {
+        "instrumentPositionLimitType" : "instrumentPositionLimitType",
+        "instrumentPositionLimitSettings" : "instrumentPositionLimitSettings",
+        "instrumentPositionHolding" : "instrumentPositionHolding"
+      }
+    },
+    "customerReference" : "732682",
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "investmentAccountType" : "investmentAccountType"
+  }
+}

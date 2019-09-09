@@ -1,0 +1,45 @@
+{
+  "depositsandWithdrawalsInitiateActionRecord" : {},
+  "depositsandWithdrawalsInstanceStatus" : "depositsandWithdrawalsInstanceStatus",
+  "depositsandWithdrawalsInstanceReference" : "DAWIR739066",
+  "depositsandWithdrawalsInitiateActionReference" : "DAWIAR776661",
+  "investmentAccountFulfillmentArrangementInstanceRecord" : {
+    "linkedCashAccount" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "taxReference" : "757288",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "investmentAccountInstrumentProfile" : "investmentAccountInstrumentProfile",
+    "investmentAccountNumber" : "investmentAccountNumber",
+    "bankBranchLocationReference" : "789540",
+    "productInstanceReference" : "752550",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "investmentAccountInstrumentRecord" : {
+      "instrumentReference" : "765296",
+      "instrumentType" : "instrumentType",
+      "tradingMarketplaceReference" : "791978",
+      "instrumentProcessingSchedule" : {
+        "instrumentEventDate" : "09-22-2018",
+        "instrumentEventDescription" : "instrumentEventDescription",
+        "instrumentEventType" : "instrumentEventType"
+      },
+      "instrumentPositionRecord" : {
+        "instrumentPositionLimitType" : "instrumentPositionLimitType",
+        "instrumentPositionLimitSettings" : "instrumentPositionLimitSettings",
+        "instrumentPositionHolding" : "instrumentPositionHolding"
+      }
+    },
+    "customerReference" : "796841",
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "investmentAccountType" : "investmentAccountType"
+  }
+}

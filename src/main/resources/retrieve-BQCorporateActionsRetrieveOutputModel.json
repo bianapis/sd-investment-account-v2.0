@@ -1,0 +1,30 @@
+{
+  "corporateActionsInstanceReport" : {
+    "corporateActionsInstanceReportType" : "corporateActionsInstanceReportType",
+    "corporateActionsInstanceReport" : {},
+    "corporateActionsInstanceReportRecord" : {},
+    "corporateActionsInstanceReportParameters" : "corporateActionsInstanceReportParameters"
+  },
+  "corporateActionsInstanceRecord" : {
+    "corporateActionType" : "corporateActionType",
+    "corporateActionApplicationSchedule" : "corporateActionApplicationSchedule",
+    "corporateActionInstrumentType" : "corporateActionInstrumentType",
+    "corporateActionTransaction" : {
+      "corporateActionTransactionType" : "corporateActionTransactionType",
+      "corporateActionTransactionDescription" : "corporateActionTransactionDescription",
+      "corporateActionTransactionDate" : "09-22-2018",
+      "corporateActionTransactionResult" : "corporateActionTransactionResult",
+      "corporateActionWorkProducts" : "corporateActionWorkProducts",
+      "documentDirectoryEntryInstanceReference" : "795168"
+    }
+  },
+  "corporateActionsRetrieveActionTaskRecord" : {},
+  "corporateActionsRetrieveActionResponse" : "corporateActionsRetrieveActionResponse",
+  "corporateActionsRetrieveActionTaskReference" : "CARATR751760",
+  "corporateActionsInstanceAnalysis" : {
+    "corporateActionsInstanceAnalysisReportType" : "corporateActionsInstanceAnalysisReportType",
+    "corporateActionsInstanceAnalysisParameters" : "corporateActionsInstanceAnalysisParameters",
+    "corporateActionsInstanceAnalysisRecord" : {},
+    "corporateActionsInstanceAnalysisReport" : {}
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "investmentAccountFulfillmentArrangementRetrieveActionResponse" : "investmentAccountFulfillmentArrangementRetrieveActionResponse",
+  "investmentAccountFulfillmentArrangementInstanceReportRecord" : {
+    "investmentAccountFulfillmentArrangementInstanceReportType" : "investmentAccountFulfillmentArrangementInstanceReportType",
+    "investmentAccountFulfillmentArrangementInstanceReport" : {},
+    "investmentAccountFulfillmentArrangementInstanceReportData" : "investmentAccountFulfillmentArrangementInstanceReportData"
+  },
+  "investmentAccountFulfillmentArrangementInstanceAnalysis" : {
+    "investmentAccountFulfillmentArrangementInstanceAnalysisReportType" : "investmentAccountFulfillmentArrangementInstanceAnalysisReportType",
+    "investmentAccountFulfillmentArrangementInstanceAnalysisReport" : {},
+    "investmentAccountFulfillmentArrangementInstanceAnalysisData" : "investmentAccountFulfillmentArrangementInstanceAnalysisData"
+  },
+  "investmentAccountFulfillmentArrangementRetrieveActionTaskReference" : "IAFARATR736371",
+  "investmentAccountFulfillmentArrangementInstanceRecord" : {
+    "linkedCashAccount" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "taxReference" : "770975",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "investmentAccountInstrumentProfile" : "investmentAccountInstrumentProfile",
+    "investmentAccountNumber" : "investmentAccountNumber",
+    "bankBranchLocationReference" : "757683",
+    "productInstanceReference" : "781595",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "investmentAccountInstrumentRecord" : {
+      "instrumentReference" : "760234",
+      "instrumentType" : "instrumentType",
+      "tradingMarketplaceReference" : "764988",
+      "instrumentProcessingSchedule" : {
+        "instrumentEventDate" : "09-22-2018",
+        "instrumentEventDescription" : "instrumentEventDescription",
+        "instrumentEventType" : "instrumentEventType"
+      },
+      "instrumentPositionRecord" : {
+        "instrumentPositionLimitType" : "instrumentPositionLimitType",
+        "instrumentPositionLimitSettings" : "instrumentPositionLimitSettings",
+        "instrumentPositionHolding" : "instrumentPositionHolding"
+      }
+    },
+    "customerReference" : "779452",
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "investmentAccountType" : "investmentAccountType"
+  },
+  "investmentAccountFulfillmentArrangementRetrieveActionTaskRecord" : {}
+}

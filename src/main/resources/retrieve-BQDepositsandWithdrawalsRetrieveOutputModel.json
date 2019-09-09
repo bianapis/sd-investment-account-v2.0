@@ -1,0 +1,17 @@
+{
+  "depositsandWithdrawalsInstanceAnalysis" : {
+    "depositsandWithdrawalsInstanceAnalysisReportType" : "depositsandWithdrawalsInstanceAnalysisReportType",
+    "depositsandWithdrawalsInstanceAnalysisRecord" : {},
+    "depositsandWithdrawalsInstanceAnalysisParameters" : "depositsandWithdrawalsInstanceAnalysisParameters",
+    "depositsandWithdrawalsInstanceAnalysisReport" : {}
+  },
+  "depositsandWithdrawalsRetrieveActionTaskReference" : "DAWRATR758144",
+  "depositsandWithdrawalsRetrieveActionTaskRecord" : {},
+  "depositsandWithdrawalsInstanceReport" : {
+    "depositsandWithdrawalsInstanceReportParameters" : "depositsandWithdrawalsInstanceReportParameters",
+    "depositsandWithdrawalsInstanceReportType" : "depositsandWithdrawalsInstanceReportType",
+    "depositsandWithdrawalsInstanceReportRecord" : {},
+    "depositsandWithdrawalsInstanceReport" : {}
+  },
+  "depositsandWithdrawalsRetrieveActionResponse" : "depositsandWithdrawalsRetrieveActionResponse"
+}

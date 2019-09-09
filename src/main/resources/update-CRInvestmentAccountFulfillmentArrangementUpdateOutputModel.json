@@ -1,0 +1,44 @@
+{
+  "investmentAccountFulfillmentArrangementUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "investmentAccountFulfillmentArrangementUpdateActionTaskReference" : "IAFAUATR779312",
+  "investmentAccountFulfillmentArrangementInstanceRecord" : {
+    "linkedCashAccount" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "taxReference" : "720629",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "investmentAccountInstrumentProfile" : "investmentAccountInstrumentProfile",
+    "investmentAccountNumber" : "investmentAccountNumber",
+    "bankBranchLocationReference" : "715272",
+    "productInstanceReference" : "756365",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "investmentAccountInstrumentRecord" : {
+      "instrumentReference" : "724059",
+      "instrumentType" : "instrumentType",
+      "tradingMarketplaceReference" : "702517",
+      "instrumentProcessingSchedule" : {
+        "instrumentEventDate" : "09-22-2018",
+        "instrumentEventDescription" : "instrumentEventDescription",
+        "instrumentEventType" : "instrumentEventType"
+      },
+      "instrumentPositionRecord" : {
+        "instrumentPositionLimitType" : "instrumentPositionLimitType",
+        "instrumentPositionLimitSettings" : "instrumentPositionLimitSettings",
+        "instrumentPositionHolding" : "instrumentPositionHolding"
+      }
+    },
+    "customerReference" : "712313",
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "investmentAccountType" : "investmentAccountType"
+  }
+}

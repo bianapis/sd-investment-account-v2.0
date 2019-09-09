@@ -1,0 +1,50 @@
+{
+  "serviceFeesInitiateActionRecord" : {},
+  "serviceFeesInitiateActionReference" : "SFIAR741846",
+  "serviceFeesInstanceStatus" : "serviceFeesInstanceStatus",
+  "serviceFeesInstanceReference" : "SFIR758588",
+  "investmentAccountFulfillmentArrangementInstanceRecord" : {
+    "linkedCashAccount" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "taxReference" : "783914",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "investmentAccountInstrumentProfile" : "investmentAccountInstrumentProfile",
+    "investmentAccountNumber" : "investmentAccountNumber",
+    "bankBranchLocationReference" : "755308",
+    "productInstanceReference" : "756252",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "investmentAccountInstrumentRecord" : {
+      "instrumentReference" : "765211",
+      "instrumentType" : "instrumentType",
+      "tradingMarketplaceReference" : "777467",
+      "instrumentProcessingSchedule" : {
+        "instrumentEventDate" : "09-22-2018",
+        "instrumentEventDescription" : "instrumentEventDescription",
+        "instrumentEventType" : "instrumentEventType"
+      },
+      "instrumentPositionRecord" : {
+        "instrumentPositionLimitType" : "instrumentPositionLimitType",
+        "instrumentPositionLimitSettings" : "instrumentPositionLimitSettings",
+        "instrumentPositionHolding" : "instrumentPositionHolding"
+      }
+    },
+    "customerReference" : "784824",
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "investmentAccountType" : "investmentAccountType"
+  },
+  "serviceFeesInstanceRecord" : {
+    "feeConfigurationProfile" : {
+      "feeDefinition" : "feeDefinition"
+    }
+  }
+}
